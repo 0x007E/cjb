@@ -1693,7 +1693,7 @@
     (property "Vendor" "HTL" (at 173.99 74.93 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "VendorId" "102598" (at 173.99 74.93 0)
+    (property "VendorId" "100135" (at 173.99 74.93 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "2" (uuid caed921e-0d5e-4698-a23d-8f3179c1d7af))

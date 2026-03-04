@@ -3216,7 +3216,7 @@
     (property "Sheetfile" "CJB_audio.kicad_sch")
     (property "Sheetname" "Audio")
     (property "Vendor" "HTL")
-    (property "VendorId" "102598")
+    (property "VendorId" "100135")
     (property "ki_description" "Unpolarized capacitor")
     (property "ki_keywords" "cap capacitor")
     (path "/7283cc71-827a-4709-81f8-65bce1e2009e/1c50d838-6af7-45dd-bf91-de5ab25a332a")
